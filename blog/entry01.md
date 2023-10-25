@@ -7,6 +7,8 @@ Text
 
 ## Engineering Design Process
 
+
+## Skills
 [Next](entry02.md)
 
 [Home](../README.md)
