@@ -2,7 +2,7 @@
 ##### 10/23/23
 ## Choosing a topic
 
-Text
+
 
 
 ## Engineering Design Process
