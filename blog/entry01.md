@@ -9,6 +9,18 @@ Text
 
 
 ## Skills
+
+
+
+
+
+
+
+
+
+
+
+## Summary
 [Next](entry02.md)
 
 [Home](../README.md)
