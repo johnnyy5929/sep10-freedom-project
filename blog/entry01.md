@@ -1,4 +1,4 @@
-# Entry 1
+# Entry 1:Deciding on My Topic
 ##### 10/23/23
 
 Text
