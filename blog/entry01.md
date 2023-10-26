@@ -10,17 +10,18 @@ I am currently in the first stage of the engineering design process, where my go
 
 ## Skills
 
+### How to google
+When I was googling, I see so many results. What I mean by how to google is that I was able to find the results I wanted to. So I learned to be more specific on what I am googling. Like I serech up the imporcance of cooking and I found the results i wanted too.
 
+### Thinking outside the box
 
-
-
-
-
+When I was thinking about cooking I felt that it would be really hard to find problems that people faces. However I learned to think outside the box and I thought of how most people are lazy but want a good meal. So I put that as the problem I want to solve. Repice to make good meal. 
 
 
 
 
 ## Summary
+Over all, I am really exicited to reserch and make a website about repiece for cooking. 
 [Next](entry02.md)
 
 [Home](../README.md)
