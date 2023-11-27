@@ -4,7 +4,7 @@
 
 ## Content Learning about Software and Hardware of Cooking
 
-So for the first blog entry I talked about why I choose cooking and the problem, now I finished the Researching part and is on the brainstorm. When I was reseaching 
+So for the first blog entry I talked about why I choose cooking and the problem, now I finished the Researching part and is on the brainstorm. When I was reseaching I learned about both hardware and software for cooking. Lets start off with software the first link I found was ["Tasty"](https://tasty.co/)
 
 
 
