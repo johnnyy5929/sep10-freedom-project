@@ -1,7 +1,6 @@
 # Entry 2
 ##### 11/27/23
 
-Text
 
 ### Content
 
