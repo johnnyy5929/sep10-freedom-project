@@ -2,9 +2,9 @@
 ##### 11/27/23
 
 
-## Content Learning about Hardware of Cooking
+## Content Learning about Software and Hardware of Cooking
 
-
+So for the first blog entry I talked about why I choose cooking, now I finished the Researching part and is on the brainstorm.
 
 
 
