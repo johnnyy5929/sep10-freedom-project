@@ -4,7 +4,7 @@
 
 ## Content Learning about Software and Hardware of Cooking
 
-So for the first blog entry I talked about why I choose cooking, now I finished the Researching part and is on the brainstorm.
+So for the first blog entry I talked about why I choose cooking and the problem, now I finished the Researching part and is on the brainstorm. When I was reseaching 
 
 
 
