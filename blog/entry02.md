@@ -2,7 +2,7 @@
 ##### 11/27/23
 
 
-### Content Learning about Hardware of Cooking
+## Content Learning about Hardware of Cooking
 
 
 
@@ -11,6 +11,9 @@
 
 ## Engineering Design Process
 
+
+
+## Skills 
 
 
 
