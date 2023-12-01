@@ -9,7 +9,7 @@ So for the first blog entry I talked about why I choose cooking and the problem 
 
 
 ## Engineering Design Process
-
+I am currently in the thrid stage of the engineering design process, where my goal is to brainstorm the problem and learn how to solve it. The problem that I hope to solve is to make it easier for people to find a recipe they like and make it the healthy way possible. My next step is to research more about how to solve this problem and learn more about coding so It would be easier to understand how to make a webiste that could help people in cooking and eating healthier than before this will benenfit everyone that likes cooking and wants to eat better.
 
 
 ## Skills 
