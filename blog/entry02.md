@@ -10,15 +10,15 @@ So for the first blog entry I talked about why I choose cooking and the problem 
 
 ## Engineering Design Process
 
-### Commutation
-
-
-
-### How to find what you are looking for
-
 
 
 ## Skills 
+### Commutation
+When I was doing my work, I asked around for people help, I didn't know that much hardware and software so I asked people. Also when I didn't know what the problem I asked people what they think a problem is. It is hard to come up with a way to solve the problem so I asked around as well. So commutation is a good skill to learned and will help me in the future because I know how to commuatate easier than before.
+
+
+### How to find what you are looking for
+When I was googling, I saw so many results. It was hard to look for what I wanted to look for, however I away around it, I found that when you are trying to find something you hsould be more specific with it, what I mean is type in all the thinks you are looking for, this is a good skill that I learned that will help me later when I am googling or reserching. 
 
 
 
