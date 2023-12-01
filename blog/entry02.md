@@ -9,16 +9,18 @@ So for the first blog entry I talked about why I choose cooking and the problem 
 
 
 ## Engineering Design Process
-I am currently in the thrid stage of the engineering design process, where my goal is to brainstorm the problem and learn how to solve it. The problem that I hope to solve is to make it easier for people to find a recipe they like and make it the healthy way possible. My next step is to research more about how to solve this problem and learn more about coding so It would be easier to understand how to make a webiste that could help people in cooking and eating healthier than before this will benenfit everyone that likes cooking and wants to eat better.
+I am currently in the third stage of the engineering design process, where my goal is to brainstorm the problem and learn how to solve it. The problem that I hope to solve is to make it easier for people to find a recipe they like and make it the healthy way possible. My next step is to research more about how to solve this problem and learn more about coding so It would be easier to understand how to make a website that could help people in cooking and eating healthier than before. This will benefit everyone that likes cooking and wants to eat better.
 
 
 ## Skills 
 ### Commutation
-When I was doing my work, I asked around for people help, I didn't know that much hardware and software so I asked people. Also when I didn't know what the problem I asked people what they think a problem is. It is hard to come up with a way to solve the problem so I asked around as well. So commutation is a good skill to learned and will help me in the future because I know how to commuatate easier than before.
+When I was doing my work, I asked around for people's help, I didn't know that much hardware and software so I asked people. Also when I didn't know what the problem was I asked people what they thought the problem was. It is hard to come up with a way to solve the problem so I asked around as well. So commutation is a good skill to learn and will help me in the future because I know how to communicate easier than before.
 
 
 ### How to find what you are looking for
-When I was googling, I saw so many results. It was hard to look for what I wanted to look for, however I away around it, I found that when you are trying to find something you hsould be more specific with it, what I mean is type in all the thinks you are looking for, this is a good skill that I learned that will help me later when I am googling or reserching. 
+When I was googling, I saw so many results. It was hard to look for what I wanted to look for, however I away around it, I found that when you are trying to find something you should be more specific with it, what I mean is type in all the thinks you are looking for, this is a good skill that I learned that will help me later when I am googling or researching. 
+
+
 
 
 
