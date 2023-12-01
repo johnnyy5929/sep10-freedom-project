@@ -10,6 +10,12 @@ So for the first blog entry I talked about why I choose cooking and the problem 
 
 ## Engineering Design Process
 
+### Commutation
+
+
+
+### How to find what you are looking for
+
 
 
 ## Skills 
