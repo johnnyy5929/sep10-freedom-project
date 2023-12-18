@@ -1,7 +1,22 @@
 # Entry 3
-##### X/X/XX
+##### 12/18/23
 
-Text
+## Content 
+
+
+
+## Engineering Design Process
+
+## Skills 
+
+### Commutation
+
+
+### How to find what you are looking for
+
+
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
