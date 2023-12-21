@@ -4,15 +4,11 @@
 ## Content 
 For the first and second blog, I talked about the problems with cooking, now I am on the stage of Brainstorm.
 
-
+## Time line
 ## Engineering Design Process
 
 ## Skills 
 
-### Commutation
-
-
-### How to find what you are looking for
 
 
 
