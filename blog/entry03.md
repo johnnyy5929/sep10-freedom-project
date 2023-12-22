@@ -82,7 +82,7 @@ I am hoping with these future ideas I can solve the problem of food on Mars or m
 
 
 ## Engineering Design Process
-I am currently in the third fourth stage of the engineering design process, where my goal is to brainstorm a good website or hardware devirce. The problem that I hope to solve is that cooking is sometimes hard to follow and you might not know if everything is correct so I want to make a 
+I am currently in the third to fourth stage of the engineering design process, where my goal is to brainstorm and planning a good website or hardware devirce. The problem that I hope to solve is that cooking is sometimes hard to follow and you might not know if everything is correct so I want to make a website that tells you evrything you need to know, like the temperture, ingredients, knowing rcipes, how long to cook it, how much calories it has and maybe it can taste your cooking so you don't have to if it is bad or if it is your first time cooking.
 ## Skills 
 
 
