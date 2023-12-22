@@ -3,8 +3,8 @@
 
 ## Content 
 For the first and second blog, I talked about the problems with cooking, now I am on the stage of Brainstorm and how to solve these problems. I looked into the past, present and futher of cooking, and found many intersting ideas, I made a time line in where you can see these ideas. For the future I came up with 4 different ideas about how to cook when fast, easy and safe. I also tried solving a problem of how to get food on Mars. 
-*Hi
-    *Hi
+* Hi
+    * Hi
 ### Ideas
 * A better app
 
