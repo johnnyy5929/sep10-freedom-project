@@ -36,7 +36,7 @@ Software to hardware of the present
 
 ### Software to hardware:
 
-[3 printing](https://www.3dnatives.com/en/food-3d-printing220520184/)  
+[3D printing](https://www.3dnatives.com/en/food-3d-printing220520184/)  
 You might never heard of 3d printing food  
 In this website you can see what 3d printing foods is   
 You might think is it edible or not some are however I want to make all foods from 3D printing foods edible  
