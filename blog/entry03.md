@@ -2,7 +2,7 @@
 ##### 12/18/23
 
 ## Content 
-For the first and second blog, I talked about the problems with cooking, now I am on the stage of Brainstorm and how to solve these problems. I looked into the past, present and futher of cooking, and found many intersting ideas, I made a time line in where you can see these ideas. For the future I came up with 4 different ideas about how to cook when fast, easy and safe. I also tried solving a problem of how to get food on Mars. 
+For the first and second blog, I talked about the problems with cooking, now I am on the stage of Brainstorm and how to solve these problems. I looked into the past, present and future of cooking, and found many interesting ideas. I made a timeline where you can see these ideas. For the future I came up with 4 different ideas about how to cook when fast, easy and safe. I also tried solving a problem of how to get food on Mars. 
 
 ### Ideas
 * A better app
@@ -13,7 +13,7 @@ For the first and second blog, I talked about the problems with cooking, now I a
 
 * A machine to cook for you
 
-## Time line
+## Timeline
 
 Software that is from past to present
 
@@ -82,10 +82,9 @@ I am hoping with these future ideas I can solve the problem of food on Mars or m
 
 
 ## Engineering Design Process
-I am currently in the third to fourth stage of the engineering design process, where my goal is to brainstorm and planning a good website or hardware devirce. The problem that I hope to solve is that cooking is sometimes hard to follow and you might not know if everything is correct so I want to make a website that tells you evrything you need to know, like the temperture, ingredients, knowing rcipes, how long to cook it, how much calories it has and maybe it can taste your cooking so you don't have to if it is bad or if it is your first time cooking.
+I am currently in the third to fourth stage of the engineering design process, where my goal is to brainstorm and plan a good website or hardware device. The problem that I hope to solve is that cooking is sometimes hard to follow and you might not know if everything is correct so I want to make a website that tells you everything you need to know, like the temperature, ingredients, knowing recipes, how long to cook it, how much calories it has and maybe it can taste your cooking so you don't have to if it is bad or if it is your first time cooking.
 
 ## Skills 
-
 
 
 
