@@ -53,7 +53,7 @@ A kitchen scale is for measuring the amount ingredients you need
 This is a mixer, it is a thing to mix ingredients 
 
 
-For the future:
+### For the future:
 
 * A better app  
 Tells you the recipes  
