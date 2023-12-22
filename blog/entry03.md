@@ -46,7 +46,7 @@ It makes everything for you and tells you the facts about it like what it is mad
 Software that is from past to present
 
 Software
- (Tasty)["https://tasty.co/"]
+ [Tasty](https://tasty.co/)
 This app allows you to find recipes you like by searching them up
 They also make interesting videos and there is a lot of people who watches those videos
 
