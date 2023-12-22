@@ -43,6 +43,30 @@ It makes everything for you and tells you the facts about it like what it is mad
 
 ## Time line
 
+Software that is from past to present
+
+Software
+ (Tasty)[https://tasty.co/]
+This app allows you to find recipes you like by searching them up
+They also make interesting videos and there is a lot of people who watches those videos
+
+
+(Yummly)[https://www.yummly.com/]
+This is app for recipes just like tasty 
+You can get fast and easy recipes 
+
+
+
+Software to hardware of the present 
+
+
+Software to hardware:
+
+(3 printing)[https://www.3dnatives.com/en/food-3d-printing220520184/]
+You might never heard of 3d printing food
+In this website you can see what 3d printing foods is 
+You might think is it edible or not some are however I want to make all foods from 3D printing foods edible
+
 
 ## Engineering Design Process
 
