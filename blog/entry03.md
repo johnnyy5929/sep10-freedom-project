@@ -85,7 +85,9 @@ I am hoping with these future ideas I can solve the problem of food on Mars or m
 I am currently in the third to fourth stage of the engineering design process, where my goal is to brainstorm and plan a good website or hardware device to help with cooking. The problem that I hope to solve is that cooking is sometimes hard to follow and you might not know if everything is correct, so I want to make a website that tells you everything you need to know, like the temperature, ingredients, knowing recipes, how long to cook , how much calories it has and maybe the website can taste your cooking so you don't have to if it is bad or if it is your first time cooking. For hardware maybe a 3D printer or a machines that cooks for you when you are too lazy too. I know I have many ambition but I hope to solve a lot of problems. 
 
 ## Skills 
+How to google:
 
+How to get ideas from other people help:
 
 
 
