@@ -6,13 +6,21 @@ During this part of the freedom project we had to choose different tools to use 
 
 ## Code I learned and what it does
 
-* To start doing A-frame in a HTML file you need to add ````<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>```` inside the head so it should look like
+### How to install A-frame
+* To start doing A-frame in a HTML file you need to add ````<script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>```` inside the head so it should look like this
 ````
   <head>
     <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
   </head>
 ````
+After you do this in your body you want to add ````<a-scene> </a-scene>```` which would look like
+````
+ <body>
+   <a-scene>
 
+   </a-scene>
+</body>
+````
 ## Engineering Design Process
 
 ## Skills 
