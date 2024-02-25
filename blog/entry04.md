@@ -21,6 +21,47 @@ After you do this in your body you want to add ````<a-scene> </a-scene>```` whic
    </a-scene>
 </body>
 ````
+
+After we install A-frame we can start coding.
+
+### The basic
+
+* I learned how to add a box
+````
+ <body>
+   <a-scene>
+      <a-box>
+      </a-box>
+   </a-scene>
+</body>
+
+````
+
+* To change the properties of the shape you can add color, weight, height, depth and more it will look something like
+````
+ <body>
+   <a-scene>
+      <a-box color=""
+             weight=""
+             height=""
+             depth="">
+      </a-box>
+   </a-scene>
+</body>
+
+````
+
+* You can also make a cylinder doing the same thing which would look like
+
+*````<a-cylinder> </a-cylinder>````
+
+Also you can change you can change position 
+
+* adding the code ````position="_ _ _"```` inside the <a-box> or another line of code that you want to change the position for.
+
+* other stuff you can do is add images, different textures and background. Which I am still trying to understand but everything has been really peppermint to know. 
+* 
+  
 ## Engineering Design Process
 
 ## Skills 
