@@ -1,8 +1,18 @@
 # Entry 4
-##### X/X/XX
+##### 2/25/24
 
-Text
+## Content 
 
-[Previous](entry03.md) | [Next](entry05.md)
+
+## Engineering Design Process
+
+## Skills 
+
+
+
+[Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
+
+
+
