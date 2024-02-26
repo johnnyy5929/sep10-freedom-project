@@ -69,9 +69,9 @@ I am currently in the fourth stage of the engineering design process, where my g
 
 ## Skills 
 
-How to research-
+How to research- I learned how to research what I want to, like how to get ther right things to show up. I was trying to look for A-frame but sometimes some other stuff showed up and also on the website I learned how to look through everything well and get information that can help me. So I learned faster and better ways of researching.
 
-How to A-frame- 
+How to tinker- I wasn't able to know what the code fully did so I had to tinker with everything and find out how everything works, so I started used Jsbin and watching over the youtube videos and follow hwat they did and see how every code they did worked. So I learned how to tinkerr with code and make the code better and easier to understand for my notes. So these are the skills I learned when doing the A-frame tinkering and reserching.
 
 
 
