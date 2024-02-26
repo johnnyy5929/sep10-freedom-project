@@ -64,7 +64,15 @@ Also you can change you can change position
   
 ## Engineering Design Process
 I am currently in the fourth stage of the engineering design process, where my goal plan a good website and plan how I will use A-frame in my website. The problem I hope to solve is that cooking is sometimes way too hard and us humans are way too lazy sometimes. So I want a website that is easy to use and that tells you all of the recipes. Also in my website you can control and play with a robot online on how to cook thing the you want with real life time and action. So you have a website where you can try cooking online first and try the new recipes out.
+
+
+
 ## Skills 
+
+How to research-
+
+How to A-frame- 
+
 
 
 
