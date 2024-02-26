@@ -2,7 +2,7 @@
 ##### 2/25/24
 
 ## Content 
-During this part of the freedom project we had to choose different tools to use and I chose A-Frame. A-frame is a web framework for building VR or virtual reality where you can make 3D model. It seemed like a cool tool that I can use to make my freedom project better. I been learning to use A-frame, I learned many code that you can use. When I was doing reserch on A-frame I was able to learned code from there website ["A-frame"](https://aframe.io/docs/1.5.0/introduction/) and from using youtube videos ["Videos"](https://www.youtube.com/watch?v=ktjMCanKNLk&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV).
+During this part of the freedom project we had to choose different tools to use and I chose A-Frame. A-frame is a web framework for building VR or virtual reality where you can make 3D model. It seemed like a cool tool that I can use to make my freedom project better. I been learning to use A-frame, I learned many code that you can use. When I was doing research on A-frame I was able to learned code from there website ["A-frame"](https://aframe.io/docs/1.5.0/introduction/) and from using youtube videos ["Videos"](https://www.youtube.com/watch?v=ktjMCanKNLk&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV).
 
 ## Code I learned and what it does
 
@@ -63,7 +63,7 @@ Also you can change you can change position
 
   
 ## Engineering Design Process
-
+I am currently in the fourth stage of the engineering design process, where my goal plan a good website and plan how I will use A-frame in my website. The problem I hope to solve is that cooking is sometimes way to hard and us humans are way too lazy sometimes 
 ## Skills 
 
 
