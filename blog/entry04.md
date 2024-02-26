@@ -59,7 +59,7 @@ Also you can change you can change position
 
 * adding the code ````position="_ _ _"```` inside the <a-box> or another line of code that you want to change the position for.
 
-* other stuff you can do is add images, different textures and background. Which I am still trying to understand but everything has been really peppermint to know. 
+* Other stuff you can do is add images, different textures and background. Which I am still trying to understand but everything has been really peppermint to know. 
 
   
 ## Engineering Design Process
