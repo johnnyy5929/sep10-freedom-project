@@ -63,7 +63,7 @@ Also you can change you can change position
 
   
 ## Engineering Design Process
-I am currently in the fourth stage of the engineering design process, where my goal plan a good website and plan how I will use A-frame in my website. The problem I hope to solve is that cooking is sometimes way to hard and us humans are way too lazy sometimes 
+I am currently in the fourth stage of the engineering design process, where my goal plan a good website and plan how I will use A-frame in my website. The problem I hope to solve is that cooking is sometimes way too hard and us humans are way too lazy sometimes. So I want a website that is easy to use and that tells you all of the recipes. 
 ## Skills 
 
 
