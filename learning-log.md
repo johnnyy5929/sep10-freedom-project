@@ -61,5 +61,16 @@ https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
 LL2
 
 
+https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
 
+Parent-Child Relationships
+When A-Frame entities are nested in parent-child relationships, so are their three.js objects. For example, take this A-Frame scene:
 
+````
+<a-scene>
+  <a-box>
+    <a-sphere></a-sphere>
+    <a-light></a-light>
+  </a-box>
+</a-scene>
+````
