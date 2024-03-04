@@ -1,5 +1,5 @@
 LL1
-How to install Aframe
+### How to install Aframe
 
 ````
 <head>
@@ -9,7 +9,7 @@ How to install Aframe
 
 
 
-Learning the shapes
+### Learning the shapes
 
 ````
 <html>
@@ -28,5 +28,30 @@ Learning the shapes
 </html>
 ````
 
+### The basic
 
+* I learned how to add a box
+````
+ <body>
+   <a-scene>
+      <a-box>
+      </a-box>
+   </a-scene>
+</body>
+
+````
+
+* To change the properties of the shape you can add color, weight, height, depth and more it will look something like
+````
+ <body>
+   <a-scene>
+      <a-box color=""
+             weight=""
+             height=""
+             depth="">
+      </a-box>
+   </a-scene>
+</body>
+
+````
 
