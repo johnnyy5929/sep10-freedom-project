@@ -87,8 +87,14 @@ When A-Frame entities are nested in parent-child relationships, so are their thr
 3/17/24
 LL3
 
-
+Link:
 https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
 https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
+
+
+
+
+
+
 
 ````
