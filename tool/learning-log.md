@@ -1,9 +1,13 @@
+# Tool Learning Log
+
+Tool: **Aframe**
+
+---
+
+X/X/X:
 LL1
 
-
-
-
-
+X/X/X:
 LL2
 
 ### How to install Aframe
@@ -77,4 +81,14 @@ When A-Frame entities are nested in parent-child relationships, so are their thr
     <a-light></a-light>
   </a-box>
 </a-scene>
+````
+
+
+3/17/24
+LL3
+
+
+https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
+https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
+
 ````
