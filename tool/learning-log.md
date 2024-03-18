@@ -93,8 +93,37 @@ https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
 
 
 
-
-
+How to add sky:
+````
+<a-scene>
+  <a-assets>
+    <img id="sky" src="sky.png">
+  </a-assets>
+  <a-sky src="#sky"></a-sky>
+</a-scene>
+````
 
 
 ````
+<a-sky color="#6EBAA7"></a-sky>
+````
+
+About how the camera: 
+
+````
+<a-scene>
+  <a-box></a-box>
+  <a-camera></a-camera>
+</a-scene>
+````
+````
+<!-- Place camera at ground level (will be overridden by VR devices) -->
+<a-camera position="0 0 0"></a-camera>
+````
+
+````
+<a-entity id="rig" position="25 10 0">
+  <a-camera id="camera"></a-camera>
+</a-entity>
+````
+
