@@ -126,4 +126,111 @@ About how the camera:
   <a-camera id="camera"></a-camera>
 </a-entity>
 ````
+How to add links:
+````
+<a-scene>
+  <a-assets>
+    <img id="my-image" src="image.png">
+  </a-assets>
+
+  <!-- Using the asset management system. -->
+  <a-image src="#my-image"></a-image>
+
+  <!-- Defining the URL inline. Not recommended but more comfortable for web developers. -->
+  <a-image src="another-image.png"></a-image>
+</a-scene>
+````
+
+different shapes:
+````
+<a-entity geometry="primitive: box; width: 1; height: 1; depth: 1"></a-entity>
+````
+````
+<a-entity geometry="primitive: circle; radius: 1" material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: cone; radiusBottom: 1; radiusTop: 0.1"></a-entity>
+````
+````
+<a-entity geometry="primitive: cylinder; height: 3; radius: 2"></a-entity>
+````
+````
+<a-entity geometry="primitive: cylinder; openEnded: true" material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: cylinder; openEnded: true; thetaLength: 180"
+          material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: dodecahedron; radius: 2"></a-entity>
+````
+````
+<a-entity geometry="primitive: octahedron"></a-entity>
+````
+````
+<a-entity geometry="primitive: icosahedron"></a-entity>
+````
+````
+<a-entity geometry="primitive: plane; height: 10; width: 10" material="side: double"></a-entity>
+````
+````
+<a-entity geometry="primitive: ring; radiusInner: 0.5; radiusOuter: 1"
+          material="side: double"></a-entity>
+````
+
+Reflection:
+````
+<a-scene reflection="directionalLight:a-light#dirlight;"></a-scene>
+	<a-light id="dirlight" intensity="1" light="castShadow:true;type:directional" position="1 1 1"></a-light>
+````
+
+Adding text:
+````
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-sky color="lightblue"></a-sky>
+      <a-text value="ABCあいうえお日本語" font="custom-msdf.json" font-image="custom-msdf.png" negate="false" scale="2 2 1" position="-2 2 -4"></a-text>
+    </a-scene>
+  </body>
+</html>
+````
+
+
+Mixins:
+````
+<a-scene>
+  <a-assets>
+    <a-mixin id="red" material="color: red"></a-mixin>
+    <a-mixin id="blue" material="color: blue"></a-mixin>
+    <a-mixin id="cube" geometry="primitive: box"></a-mixin>
+  </a-assets>
+
+  <a-entity mixin="red cube"></a-entity>
+  <a-entity mixin="blue cube"></a-entity>
+</a-scene>
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
