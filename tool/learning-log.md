@@ -238,20 +238,38 @@ animation: chnages/moves shapes and stuff
         <a-sphere position="5 0 0" color="mediumseagreen"></a-sphere>
 </a-entity>
 ````
+fog:
+````
+<a-scene fog="type: linear; color: #AAA"></a-scene>
+````
+
+hand-controls:
+````
+<a-entity id="leftHand" hand-controls="hand: left; handModelStyle: lowPoly; color: #ffcccc"></a-entity>
+<a-entity id="rightHand" hand-controls="hand: right; handModelStyle: lowPoly; color: #ffcccc"></a-entity>
+````
+
+hand-tracking-controls:
+````
+<a-entity id="leftHand" hand-tracking-controls="hand: left;"></a-entity>
+<a-entity id="rightHand" hand-tracking-controls="hand: right;"></a-entity>
+````
 
 
+hand-tracking-grab-controls: 
+````
+<a-entity id="leftHand" hand-tracking-grab-controls="hand: left;"></a-entity>
+<a-entity id="rightHand" hand-tracking-grab-controls="hand: right;"></a-entity>
+````
 
+These codes are to interact with everything.
 
-
-
-
-
-
-
-
-
-
-
+laser-controls:
+````
+<a-entity laser-controls="hand: left"></a-entity>
+````
+real-world-meshing:
+<a-scene real-world-meshing></a-scene>
 
 
 
