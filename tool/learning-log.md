@@ -216,6 +216,33 @@ Mixins:
 ````
 
 
+3/24/24
+
+LL4
+
+Learning COMPONENTS
+
+anchored:
+````
+<a-entity id="myBox" anchored="persistent: true" geometry="primitive: box" material="color: red"></a-entity>
+````
+
+animation: chnages/moves shapes and stuff
+
+````
+<a-box position="-1 1.6 -5" animation="property: position; to: 1 8 -10; dur: 2000; easing: linear; loop: true" color="tomato"></a-box>
+````
+
+````
+<a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+        <a-sphere position="5 0 0" color="mediumseagreen"></a-sphere>
+</a-entity>
+````
+
+
+
+
+
 
 
 
