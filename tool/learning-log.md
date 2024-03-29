@@ -309,7 +309,7 @@ Trying more animation and with different shapes
 </html>
 ````
 
-     <img src="hi.png" class="d-block w-100" style="height:600px; width:55px;" alt="Try again later!">
+![hi](hi.png)
 ````
 <html>
   <head>
