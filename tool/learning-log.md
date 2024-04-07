@@ -355,6 +355,8 @@ Day 1: get a better understanding of how animation works for Aframe. Also get a 
 
 Day 3: I will add background and the area that the Robot will travel in. Fix up the animation and add different textures of food and ingredients for cooking. I will make an oven out of the shapes I learned and other kitchen stuff. 
 
+# So all I wanted was a robot that can move around in a kitchen which is my protype Robot kichen i will make the background better and the robot more more.
+
 Take a look on what I did, it is just a protype and will get better: 
 
 ````
