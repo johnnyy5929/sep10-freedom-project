@@ -392,7 +392,7 @@ Take a look on what I did, it is just a protype and will get better:
 ![hi](robotjo.png)
 
 
-
+this is my robot moving in a kitchen area where next I will show him cooking and baking.
 
 
 
