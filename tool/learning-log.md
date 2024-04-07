@@ -347,12 +347,49 @@ https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5Vf
 https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
 
 
+My plan for these 3 days to finish learning my tool is to use the old codes I learned and learn more code and combine them. For the freedom project I was planning on making a cooking robot so I will combine animates and different shapes.
+
+Day 1: get a better understanding of how animation works for Aframe. Also get a better understanding of how the position works, learn background and how to add texture. Tinker with other codes that I haven’t learned yet.
+
+ Day 2: Make a robot out of A Frame and make it move a lot and make it look like it is cooking. So I will combine everything like color, position, animation and shapes. 
+
+Day 3: I will add background and the area that the Robot will travel in. Fix up the animation and add different textures of food and ingredients for cooking. I will make an oven out of the shapes I learned and other kitchen stuff. 
+
+Take a look on what I did, it is just a protype and will get better: 
+
+````
 
 
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="-1 0.5 -3.5" rotation="0 90 0" color="fff" animation="property: position; to: -4 0.5 -3.5;"></a-box>
+      <a-entity geometry="primitive: circle; radius: 0.6" material="side: double" position="-1 0 -4" animation="property: position; to: -4 0 -4;"></a-entity>
+      <a-entity geometry="primitive: circle; radius: 0.6" material="side: double" position="-1 0 -3" animation="property: position; to: -4 0 -3;" ></a-entity>
+      <a-cylinder position="-1 1.5 -3.5" radius="0.3" height="0.9" color="#fff" animation="property: position; to: -4 1.5 -3.5;"></a-cylinder>
+      <a-sphere position="-1 2.2 -3.5" radius="0.5" color="#fff" animation="property: position; to: -4 2.2 -3.5;"></a-sphere>
+      <a-box position="-1.5 1.4 -3" rotation="0 90 0" color="#fff" width="0.3" height="0.3" animation="property: position; to: -4.5 1.4 -3;"></a-box>
+      <a-box position="-1.5 1.4 -4" rotation="0 90 0" color="#fff" width="0.3" height="0.3" animation="property: position; to: -4.5 1.4 -4;"></a-box>
+            <a-plane position="0 -0.6 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+            <a-plane position="-4 -0.6 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+            <a-plane position="-4 -0.6 0" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
+       <a-box position="-5.5 0 -3" width="6" rotation="0 90 0" color="#fff"></a-box>     
+            <a-box position="-2 0 -5.5" width= "8" rotation="0 0 0" color="#fff"></a-box>
+                  <a-box position="-2 1 -5.5" rotation="0 0 0" color="#fff"></a-box>
+                  <a-box position="-3 1 -5.5" rotation="0 0 0" color="#fff"></a-box>
+                  <a-box position="-2 2 -5.5" rotation="0 0 0" color="#fff"></a-box>
+                  <a-box position="-3 2 -5.5" rotation="0 0 0" color="#fff"></a-box>
+    </a-scene>
+  </body>
+</html>
+
+````
 
 
-
-
+![hi]()
 
 
 
