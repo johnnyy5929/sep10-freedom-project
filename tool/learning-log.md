@@ -359,7 +359,6 @@ Take a look on what I did, it is just a protype and will get better:
 
 ````
 
-
 <html>
   <head>
     <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
@@ -371,25 +370,24 @@ Take a look on what I did, it is just a protype and will get better:
       <a-entity geometry="primitive: circle; radius: 0.6" material="side: double" position="-1 0 -3" animation="property: position; to: -4 0 -3;" ></a-entity>
       <a-cylinder position="-1 1.5 -3.5" radius="0.3" height="0.9" color="#fff" animation="property: position; to: -4 1.5 -3.5;"></a-cylinder>
       <a-sphere position="-1 2.2 -3.5" radius="0.5" color="#fff" animation="property: position; to: -4 2.2 -3.5;"></a-sphere>
-      <a-box position="-1.5 1.4 -3" rotation="0 90 0" color="#fff" width="0.3" height="0.3" animation="property: position; to: -4.5 1.4 -3;"></a-box>
-      <a-box position="-1.5 1.4 -4" rotation="0 90 0" color="#fff" width="0.3" height="0.3" animation="property: position; to: -4.5 1.4 -4;"></a-box>
-            <a-plane position="0 -0.6 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-            <a-plane position="-4 -0.6 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-            <a-plane position="-4 -0.6 0" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-       <a-box position="-5.5 0 -3" width="6" rotation="0 90 0" color="#fff"></a-box>     
-            <a-box position="-2 0 -5.5" width= "8" rotation="0 0 0" color="#fff"></a-box>
-                  <a-box position="-2 1 -5.5" rotation="0 0 0" color="#fff"></a-box>
-                  <a-box position="-3 1 -5.5" rotation="0 0 0" color="#fff"></a-box>
-                  <a-box position="-2 2 -5.5" rotation="0 0 0" color="#fff"></a-box>
-                  <a-box position="-3 2 -5.5" rotation="0 0 0" color="#fff"></a-box>
+      <a-box position="-1.5 1.4 -3" rotation="0 90 0" color="lightblue" width="0.3" height="0.3" animation="property: position; to: -4.5 1.4 -3;"></a-box>
+      <a-box position="-1.5 1.4 -4" rotation="0 90 0" color="lightblue" width="0.3" height="0.3" animation="property: position; to: -4.5 1.4 -4;"></a-box>
+            <a-plane position="0 -0.6 -4" rotation="-90 0 0" width="4" height="4" color="#fff"></a-plane>
+            <a-plane position="-4 -0.6 -4" rotation="-90 0 0" width="4" height="4" color="#fff"></a-plane>
+            <a-plane position="-4 -0.6 0" rotation="-90 0 0" width="4" height="4" color="#fff"></a-plane>
+       <a-box position="-5.5 0 -3" width="6" rotation="0 90 0" color="lightblue"></a-box>     
+            <a-box position="-2 0 -5.5" width= "8" rotation="0 0 0" color="lightblue"></a-box>
+                  <a-box position="-2 1 -5.5" rotation="0 0 0" color="lightblue"></a-box>
+                  <a-box position="-3 1 -5.5" rotation="0 0 0" color="lightblue"></a-box>
+                  <a-box position="-2 2 -5.5" rotation="0 0 0" color="lightblue"></a-box>
+                  <a-box position="-3 2 -5.5" rotation="0 0 0" color="lightblue"></a-box>
     </a-scene>
   </body>
 </html>
-
 ````
 
 
-![hi]()
+![hi](robot.png)
 
 
 
