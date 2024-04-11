@@ -6,9 +6,13 @@
 
 ## Colors
 * `#ABC123`
+* #fff
+* lightblue
 
 ## Fonts
-* [Text](URL)
+* M PLUS 1 Code
+* Inter
+* Barlow
 
 ## Timeline
 
