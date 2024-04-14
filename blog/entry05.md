@@ -1,8 +1,24 @@
-# Entry 5
-##### X/X/XX
+# Entry 4
+##### 4/8/24
 
-Text
+## Content 
 
-[Previous](entry04.md) | [Next](entry06.md)
+#### How I tinkered with aframe
+
+
+
+## Sources
+
+## Skills 
+
+
+
+
+
+[Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
+
+
+
+
