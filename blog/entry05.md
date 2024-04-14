@@ -3,7 +3,7 @@
 
 ## Content 
 
-Everyone had to pick a tool to use and as I said before I picked Aframe. Lately we been learning how to use our tools and write Learning logs about them. There are many codes and ways I tinkered with Aframe as you can see in the bottom. I learnm how to make 3D models with Aframe or how to make them move and many others. 
+Everyone had to pick a tool to use and as I said before I picked Aframe. Lately we been learning how to use our tools and write Learning logs about them. There are many codes and ways I tinkered with Aframe as you can see in the bottom. I learnm how to make 3D models with Aframe, how to make them move and many others. I learnede these by watching videos and using there website, than tinkered with everything. 
 
 #### How I tinkered with aframe
 
