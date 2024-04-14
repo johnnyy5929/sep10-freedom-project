@@ -149,9 +149,15 @@ real-world-meshing:
 
 All of these are me trying out A frame and changing codes and combining codes I learned.
 ## Sources
+https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6
+https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html
 
 ## Skills 
+How to tinker:
 
+How to reserch:
+
+how to communicate:
 
 
 
