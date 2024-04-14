@@ -149,9 +149,8 @@ real-world-meshing:
 
 All of these are me trying out A frame and changing codes and combining codes I learned.
 ## Sources
+I mostly use two sources which are ["Aframe youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and the ["Aframe website"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html). The ["Aframe website"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html) tells me what the codes is and what it does. I was able to look and reserch on the website to find the codes I needed and I start to tinker with the codes that the website gives me. Later if I don't uunderstand the website I use ["Aframe youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) which on youtube I am able to see what the codes does and I can copy the code. After copying the code I can tinker with it like that. Also I used ["Aframe youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) to teach me how to combined different codes together to make my 3D model move. So these are the sources I used and how I used them. 
 
- ["Aframe youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6)
-["Aframe website"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html)
 
 
 ## Skills 
