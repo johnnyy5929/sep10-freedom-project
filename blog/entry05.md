@@ -147,6 +147,7 @@ real-world-meshing:
 
 ![hi](../tool/robotjo.png)
 
+All of these are me trying out A frame and changing codes and combining codes I learned.
 ## Sources
 
 ## Skills 
