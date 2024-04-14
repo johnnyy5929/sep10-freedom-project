@@ -143,9 +143,9 @@ real-world-meshing:
 ````
 
 
-![hi](robot.png)
+![hi](../tool/robot.png)
 
-![hi](robotjo.png)
+![hi](../tool/robotjo.png)
 
 ## Sources
 
