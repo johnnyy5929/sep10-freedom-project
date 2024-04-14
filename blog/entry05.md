@@ -84,7 +84,7 @@ real-world-meshing:
 </html>
 ````
 
-![hi](hi.png)
+![hi](../tool/hi.png)
 ````
 <html>
   <head>
