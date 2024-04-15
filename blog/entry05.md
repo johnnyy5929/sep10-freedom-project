@@ -3,9 +3,9 @@
 
 ## Content 
 
-Everyone had to pick a tool to use and as I said before I picked Aframe. Lately we been learning how to use our tools and write Learning logs about them. There are many codes and ways I tinkered with Aframe as you can see in the bottom. I learnm how to make 3D models with Aframe, how to make them move and many others. I learnede these by watching videos and using there website, than tinkered with everything. 
+Everyone had to pick a tool to use and as I said before I picked Aframe. Lately we have been learning how to use our tools and write Learning logs about them. There are many codes and ways I tinkered with Aframe as you can see in the bottom. I learn how to make 3D models with Aframe, how to make them move and many others. I learned these by watching videos and using their website, then tinkered with everything. 
 
-#### How I tinkered with aframe
+#### How I tinkered with Aframe
 
 Learning COMPONENTS
 
@@ -14,7 +14,7 @@ anchored:
 <a-entity id="myBox" anchored="persistent: true" geometry="primitive: box" material="color: red"></a-entity>
 ````
 
-animation: chnages/moves shapes and stuff
+animation: changes/moves shapes and stuff
 
 ````
 <a-box position="-1 1.6 -5" animation="property: position; to: 1 8 -10; dur: 2000; easing: linear; loop: true" color="tomato"></a-box>
@@ -154,11 +154,15 @@ I mostly use two sources which are ["Aframe youtube"](https://www.youtube.com/wa
 
 
 ## Skills 
-How to tinker:
+Some skills I learned while learning my tool was how to tinker, do research on my tool and communicate with others that are doing the same tool as me. 
 
-How to reserch:
+How to tinker: tinkering is a really important part of learning a tool, you should be brave and try new stuff is what I learned when watching the edpuzzles, to tinker you want to try new codes and change the code, this was a really important skill that will later help me learn new stuff. If I didn't tinker with stuff I wouldn't understand how the codes work. But since I did I learned the codes and my tool this is why tinkering was an important skill I learned. 
 
-how to communicate:
+How to research: I didn't know anything about my tool, so I had to research it. It was important, i had to find sources I can use to understand how to use Aframe, due to researching hard and finding good sources I was able to understand my code and tool better so researching is a really important skill thatI have developed. 
+
+How to communicate:Lastly, when I really don't understand something, I ask my friends for help. For example, when I didn't understand how to add 3D models, Joe helped me. Also, when I didn't understand the code, my friends like Keith explained it to me. Which is my communication is another skill that I learned and will use more later on. Since communication is really helpful especially when you don't know something.
+
+These are the skills that I learned or improved more on. Which I will use more later on. 
 
 
 
@@ -166,6 +170,8 @@ how to communicate:
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
+
+
 
 
 
