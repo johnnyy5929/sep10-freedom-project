@@ -35,3 +35,5 @@
 #### Beyond MVP
 
 * Task
+  
+* Use blender to make a betetr 3D model
