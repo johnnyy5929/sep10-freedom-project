@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+}
+
+.hi {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/balloon-5.jpg') center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+  }
