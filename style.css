@@ -1,9 +1,191 @@
-body {
-    background-color: lightblue;
-}
+.center {
+    text-align:center;
+  }
 
-.hi {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/balloon-5.jpg') center no-repeat fixed;
+  .center2 {
+    text-align:center;
+    padding-top:50px;
+  }
+  .s {
+  color: white;
+  }
+
+  .center3 {
+    text-align:center;
+    padding-top:25px;
+  }
+
+  .font-size {
+    font-size:25px;
+    padding-top: 10px;
+  }
+
+  .hi {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('cooking.jpeg') center no-repeat fixed;
     background-size: cover;
     text-align: center;
+  }
+  .hello {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/balloon-2.jpg') center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+    height:1000px;
+  }
+
+  .bye {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/balloon-1.jpg') center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+  }
+  .chao-chao {
+    background: url('../img/balloon-4.jpg') center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+    height:1000px;
+  }
+  .transparent {
+    background-color: transparent !important;
+  }
+
+  .picture {
+    text-align:center;
+    padding-bottom:8px;
+  }
+
+  .blue {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+  }
+
+  div {
+    padding:15px;
+  }
+
+  p {
+    padding:10px;
+  }
+
+  .padding {
+    padding:10px;
+  }
+
+  .size {
+    width:900px;
+    height:1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .paddingright{
+    padding-right: 750px;
+  }
+  .paddingleft {
+    padding-left: 210px;
+    padding-top: 10px;
+  }
+
+  .padding3 {
+    padding-right: 25px;
+    padding-left:25px;
+  }
+
+  .font {
+    font-family: Kaisei Decol;
+    font-size: 18px;
+    color:white;
+  }
+
+  center {
+    text-align:center;
+  }
+  .body1 {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(cooking.jpeg);
+    background-repeat: no-repeat;
+  }
+
+  .margin {
+    margin: 40px;
+  }
+
+  .margin2 {
+    margin:65px;
+  }
+  .margin3 {
+    margin:90px;
+  }
+  .border {
+    border: solid 2px black;
+  }
+
+  .lightblue {
+    background-color: lightblue;
+  }
+
+  .color {
+    background-color:#b38c54;
+  }
+
+  .font2 {
+    font-family:Labrada;
+    color:lightblue;
+  }
+
+  nav {
+  height:55px;
+  }
+
+  .padding3 {
+    padding-top:20px;
+
+  .chao {
+    height: 60vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('cooking.jpeg') center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+  }
+
+  p {
+  color: black;
+  }
+
+  h1 {
+    color: lightblue;
+  }
+
+  }
+  h3 {
+    color: white;
+  }
+
+  h6 {
+    color: lightblue;
+  }
+
+  .font4 {
+  font-family:Tino;
+  color:black;
+  }
+
+  .font5 {
+  font-family:Thasadith;
+  color:white;
+  }
+
+
+  .fsize {
+    font-size:40px;
+  }
+
+  .sand {
+   background-color: #C2B280;
+  }
+
+
+  .font6 {
+    color: white;
+  }
+
+  .class {
+    color: black;
   }
