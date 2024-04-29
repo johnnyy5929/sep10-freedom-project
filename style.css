@@ -7,8 +7,8 @@
     padding-top:50px;
   }
   .s {
-  color: white;
-  }
+    color: white;
+    }
 
   .center3 {
     text-align:center;
@@ -20,20 +20,16 @@
     padding-top: 10px;
   }
 
-  .hi {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('cooking.jpeg') center no-repeat fixed;
-    background-size: cover;
-    text-align: center;
-  }
+
   .hello {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/balloon-2.jpg') center no-repeat fixed;
+    background: url('tools.png') center no-repeat fixed;
     background-size: cover;
     text-align: center;
-    height:1000px;
+    height:500px;
   }
 
   .bye {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/balloon-1.jpg') center no-repeat fixed;
+    background: url('../img/balloon-1.jpg') center no-repeat fixed;
     background-size: cover;
     text-align: center;
   }
@@ -154,9 +150,7 @@
   }
 
   }
-  h3 {
-    color: white;
-  }
+
 
   h6 {
     color: lightblue;
@@ -182,10 +176,20 @@
   }
 
 
-  .font6 {
-    color: white;
-  }
+
 
   .class {
     color: black;
+  }
+
+  .new {
+    color: black;
+  }
+
+  .see {
+    color: black;
+  }
+
+  .aframe {
+    text-align:center;
   }
