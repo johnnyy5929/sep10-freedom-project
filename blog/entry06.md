@@ -2,7 +2,7 @@
 ##### 5/1/24
 
 ## Content 
-
+Making Mvp was a challenge, when I started I was lost, I didn't know where to start.
 
 
 ## Sources
