@@ -20,6 +20,11 @@ Making Mvp was a challenge, when I started I was lost, I didn't know where to st
 
 #### Fonts 
 
+M PLUS 1 Code
+Inter
+Barlow
+
+
 
 ## Sources
 
