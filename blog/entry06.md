@@ -4,6 +4,10 @@
 ## Content 
 Making Mvp was a challenge, when I started I was lost, I didn't know where to start. I had a layout of my wireframe which I used to give me a idea of how to make my mvp. 
 
+### Time line
+
+
+
 
 ## Sources
 
