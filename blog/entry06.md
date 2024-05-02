@@ -26,7 +26,20 @@ Inter
 
 Barlow
 
-So I made my plan and wireframe and was starting to code everything.
+So I made my plan and wireframe and was starting to code everything. I had a lot of challenges and takeaways.
+
+### Challenges
+
+
+
+
+### Takeaways
+
+
+
+
+
+
 
 ## Sources
 
