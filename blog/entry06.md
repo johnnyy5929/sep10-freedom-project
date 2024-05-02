@@ -6,7 +6,19 @@ Making Mvp was a challenge, when I started I was lost, I didn't know where to st
 
 ### Time line
 
+4/15-Make a navbar/start making images
 
+4/16-Finish my formatting
+
+4/17-Add text
+
+4/18-Add Aframe
+
+4/19-Add images to the background
+
+5/1-check eveyrthing
+
+#### Fonts 
 
 
 ## Sources
