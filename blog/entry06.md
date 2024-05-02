@@ -26,7 +26,7 @@ Inter
 
 Barlow
 
-So I made my plan and wireframe and was starting 
+So I made my plan and wireframe and was starting to code everything.
 
 ## Sources
 
