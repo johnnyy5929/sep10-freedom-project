@@ -55,6 +55,7 @@ Ask friends for help-
 
 ## EDP
 
+I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Improve as needed.
 
 
 ## Skills 
