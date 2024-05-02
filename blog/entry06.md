@@ -39,7 +39,11 @@ I didn't understand how to make it look like my wireframe
 
 #### Takeaways
 
+Get off your phone-
 
+Try codes until it works for you-
+
+Ask friends for help-
 
 
 
@@ -47,7 +51,11 @@ I didn't understand how to make it look like my wireframe
 
 ## Sources
 
+
+
 ## EDP
+
+
 
 ## Skills 
 
