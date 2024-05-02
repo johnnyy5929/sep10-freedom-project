@@ -59,6 +59,10 @@ Ask friends for help-
 
 ## Skills 
 
+Testing codes-
+
+researching-
+
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
