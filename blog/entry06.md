@@ -30,7 +30,11 @@ So I made my plan and wireframe and was starting to code everything. I had a lot
 
 #### Challenges
 
+Some codes didn't work
 
+I was too lazy to do the work
+
+I didn't understand how to make it look like my wireframe
 
 
 #### Takeaways
