@@ -32,14 +32,12 @@ So I made my plan and wireframe and was starting to code everything. I had a lot
 
 Some codes didn't work
 
-I was too lazy to do the work
 
 I didn't understand how to make it look like my wireframe
 
 
 #### Takeaways
 
-Get off your phone-
 
 Try codes until it works for you-
 
