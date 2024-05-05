@@ -31,18 +31,18 @@ So I made my plan and wireframe and was starting to code everything. I had a lot
 
 #### Challenges
 
-Some codes didn't work
+Some codes didn't work- when I tried to add aframe by using the ````<iframe></iframe>```` code nothing worked at first. and many other codes that IO tried didn't woprk at first which was one challenge.
 
 
-I didn't understand how to make it look like my wireframe
+I didn't understand how to make it look like my wireframe- when I made my wireframe it seems easy but when you start the code, it was hard, I didn't know where everything should go which was anotehr challenge.
 
 
 #### Takeaways
 
 
-Try codes until it works for you-
+Try codes until it works for you- When I didn't know something I would try the code until it works, I learned that you need to try new stuff until it works like what I did with for my mvp.
 
-Ask friends for help-
+Ask friends for help- If the code still doesn't work evern after trying it you should as a friend for help. Like when I didn't know how the  ````<iframe></iframe>```` worked I asked my friends and they showed me.
 
 
 
