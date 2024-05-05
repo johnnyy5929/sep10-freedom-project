@@ -49,7 +49,7 @@ Ask friends for help- If the code still doesn't work evern after trying it you s
 
 
 ## Sources
-I wanted to add a robot to my website to show what a robot can do I did this by using Aframe which I learned from ["youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html)
+I wanted to add a robot to my website to show what a robot can do I did this by using Aframe which I learned from ["youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html). I also added different fonts which I used the website ["Fonts"](https://fonts.google.com/). After I also used ["Bootstrap"](https://getbootstrap.com/docs/5.3/getting-started/download/) for my component. For my planning i used wireframe
 
 
 ## EDP
