@@ -54,7 +54,7 @@ Ask friends for help-
 
 ## EDP
 
-I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Improve as needed.
+I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Improve as needed. As I said before I wanted to make a robot since the problem I hope to solve is that cooking is sometimes way too hard and us humans are way too lazy sometimes. So I used Aframe to make a robot and now I am on the 6 step and 7 step. Since I need to do some more improvement.
 
 
 ## Skills 
