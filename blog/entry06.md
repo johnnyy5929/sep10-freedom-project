@@ -2,10 +2,10 @@
 ##### 5/1/24
 
 ## Content 
-Making Mvp was a challenge, when I started I was lost, I didn't know where to start. I had a layout of my wireframe which I used to give me a idea of how to make my mvp. 
+Making Mvp was a challenge, when I started I was lost, I didn't know where to start. I had a layout of my wireframe which I used to give me an idea of how to make my mvp. 
 
 ## Plan
-### Time line
+### Timeline
 
 4/15-Make a navbar/start making images
 
@@ -17,7 +17,7 @@ Making Mvp was a challenge, when I started I was lost, I didn't know where to st
 
 4/19-Add images to the background
 
-5/1-check eveyrthing
+5/1-check everything
 
 #### Fonts 
 
@@ -27,29 +27,29 @@ Inter
 
 Barlow
 
-So I made my plan and wireframe and was starting to code everything. I had a lot of challenges and takeaways.
+So I made my plan and wireframe and started to code everything. I had a lot of challenges and takeaways.
 
 #### Challenges
 
-Some codes didn't work- when I tried to add aframe by using the ````<iframe></iframe>```` code nothing worked at first. and many other codes that IO tried didn't woprk at first which was one challenge.
+Some codes don't work- when I tried to add Aframe by using the ````<iframe></iframe>```` code nothing worked at first. and many other codes that IO tried didn't work at first which was one challenge.
 
 
-I didn't understand how to make it look like my wireframe- when I made my wireframe it seems easy but when you start the code, it was hard, I didn't know where everything should go which was anotehr challenge.
+I didn't understand how to make it look like my wireframe- when I made my wireframe it seemed easy but when you started the code, it was hard, I didn't know where everything should go which was another challenge.
 
 
 #### Takeaways
 
 
-Try codes until it works for you- When I didn't know something I would try the code until it works, I learned that you need to try new stuff until it works like what I did with for my mvp.
+Try codes until it works for you- When I didn't know something I would try the code until it works, I learned that you need to try new stuff until it works like what I did with my mvp.
 
-Ask friends for help- If the code still doesn't work evern after trying it you should as a friend for help. Like when I didn't know how the  ````<iframe></iframe>```` worked I asked my friends and they showed me.
+Ask friends for help- If the code still doesn't work even after trying it you should ask a friend for help. Like when I didn't know how the  ````<iframe></iframe>```` worked I asked my friends and they showed me.
 
 
 
 
 
 ## Sources
-I wanted to add a robot to my website to show what a robot can do I did this by using Aframe which I learned from ["youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html). I also added different fonts which I used the website ["Fonts"](https://fonts.google.com/). After I also used ["Bootstrap"](https://getbootstrap.com/docs/5.3/getting-started/download/) for my component. For my planning i used wireframe [Mobile](https://wireframe.cc/qa15Ss) and [Desktop](https://wireframe.cc/4EpUoN). These are most of the sources I used.
+I wanted to add a robot to my website to show what a robot can do I did this by using Aframe which I learned from ["youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html). I also added different fonts which I used on the website ["Fonts"](https://fonts.google.com/). After I also used ["Bootstrap"](https://getbootstrap.com/docs/5.3/getting-started/download/) for my component. For my planning I used wireframe [Mobile](https://wireframe.cc/qa15Ss) and [Desktop](https://wireframe.cc/4EpUoN). These are most of the sources I used.
 
 
 ## EDP
@@ -61,14 +61,4 @@ I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Imp
 
 Testing codes- A skill I learned was testing code, I tried many codes until something works as I said before, it was a great skill that will help me later in code.
 
-Researching- Another code I learned was researching which is serching up things that will help with my websites likle the fonts, colors, aframe and etc. Researching is a important skill that I been devoplemnt over months.
-
-[Previous](entry02.md) | [Next](entry04.md)
-
-[Home](../README.md)
-
-
-
-
-
-
+Researching- Another code I learned was researching which is searching up things that will help with my websites like the fonts, colors, Aframe and etc. Researching is an important skill that I have been developing over months.
