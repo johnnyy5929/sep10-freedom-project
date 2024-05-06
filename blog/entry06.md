@@ -34,15 +34,15 @@ So I made my plan and wireframe and started to code everything. I had a lot of c
 Some codes don't work- like when I tried to add Aframe by using the ````<iframe></iframe>```` code nothing worked at first. and many other codes that I tried didn't work at first which was one challenge. 
 
 
-I didn't understand how to make it look like my wireframe- Another challenge was when I made my wireframe it seemed easy but when you started the code, it was hard, I didn't know where everything should go which was another challenge. Like when I want something to go somewhere it didn't work. For example I wanted my title to go down a bit more but it wasn't working.
+I didn't understand how to make it look like my wireframe- Another challenge was when I made my wireframe it seemed easy but when you started the code, it was hard, I didn't know where everything should go which was another challenge. Like when I want something to go somewhere it didn't work. For example I wanted my title to go down a bit more but it wasn't working. Also when I add a picture to the background it didn't look right. So making it like the wireframe was a challenge.
 
 
 #### Takeaways
 
 
-Try codes until it works for you- When I didn't know something I would try the code until it works, I learned that you need to try new stuff until it works like what I did with my mvp.
+Try codes until it works for you- When I didn't know something I would try the code until it works, I learned that you need to try new stuff until it works like what I did with my mvp. Like for the background I didn't know how to add a picture but I keep trying and it worked. 
 
-Ask friends for help- If the code still doesn't work even after trying it you should ask a friend for help. Like when I didn't know how the  ````<iframe></iframe>```` worked I asked my friends and they showed me. 
+Ask friends for help- If the code still doesn't work even after trying it you should ask a friend for help. Like when I didn't know how the  ````<iframe></iframe>```` worked I asked my friends and they explained to me how they did the code, so asking a friend is a takeaway from doing the MVP.
 
 
 
@@ -59,6 +59,6 @@ I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Imp
 
 ## Skills 
 
-Testing codes- A skill I learned was testing code, I tried many codes until something works as I said before, it was a great skill that will help me later in code. Testing codes you need to be brave and try code which is a skill I learn.
+Testing codes- A skill I learned was testing code, I tried many codes until something works as I said before, it was a great skill that will help me later in code. Testing codes you need to be brave and try code which is a skill I learn and that i will dovelope over time so it gets better.
 
 Researching- Another code I learned was researching which is searching up things that will help with my websites like the fonts, colors, Aframe and etc. Also researching is for me to get the right things that I want which is a really good skill that I learned. So researching is an important skill that I have been developing over months.
