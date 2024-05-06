@@ -49,12 +49,12 @@ Ask friends for help- If the code still doesn't work even after trying it you sh
 
 
 ## Sources
-I wanted to add a robot to my website to show what a robot can do I did this by using Aframe which I learned from ["youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html). I also added different fonts which I used on the website ["Fonts"](https://fonts.google.com/). After I also used ["Bootstrap"](https://getbootstrap.com/docs/5.3/getting-started/download/) for my component. For my planning I used wireframe [Mobile](https://wireframe.cc/qa15Ss) and [Desktop](https://wireframe.cc/4EpUoN). These are most of the sources I used.
+I wanted to add a robot to my website to show what a robot can do I did this by using Aframe which I learned from ["youtube"](https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6) and ["Aframe"](https://aframe.io/docs/1.5.0/introduction/javascript-events-dom-apis.html). I also added different fonts which I used on the website ["Fonts"](https://fonts.google.com/). After I also used ["Bootstrap"](https://getbootstrap.com/docs/5.3/getting-started/download/) for my component. For my planning I used wireframe [Mobile](https://wireframe.cc/qa15Ss) and [Desktop](https://wireframe.cc/4EpUoN). These are most of the sources I used for making my websites.
 
 
 ## EDP
 
-I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Improve as needed. As I said before I wanted to make a robot since the problem I hope to solve is that cooking is sometimes way too hard and us humans are way too lazy sometimes. So I used Aframe to make a robot and now I am on the 6 step and 7 step. Since I need to do some more improvement.
+I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Improve as needed. As I said before I wanted to make a robot since the problem I hope to solve is that cooking is sometimes way too hard and us humans are way too lazy sometimes. So I used Aframe to make a robot and now I am on the 6 step and 7 step. Since I need to do some more improvement. I finsih making my robot, it isn't the best so I need to add more and finsih improving everything.
 
 
 ## Skills 
