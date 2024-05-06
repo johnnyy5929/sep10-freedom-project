@@ -61,4 +61,4 @@ I am on step 6 and 7 of the EDP which is Test and evaluate the prototype and Imp
 
 Testing codes- A skill I learned was testing code, I tried many codes until something works as I said before, it was a great skill that will help me later in code. Testing codes you need to be brave and try code which is a skill I learn.
 
-Researching- Another code I learned was researching which is searching up things that will help with my websites like the fonts, colors, Aframe and etc. Researching is an important skill that I have been developing over months.
+Researching- Another code I learned was researching which is searching up things that will help with my websites like the fonts, colors, Aframe and etc. Also researching is for me to get the right things that I want which is a really good skill that I learned. So researching is an important skill that I have been developing over months.
