@@ -37,3 +37,11 @@
 * Task
   
 * Use blender to make a betetr 3D model
+
+* [] Make the navabr work 
+* [] Make the menu better color
+* [] Change color scheme
+* [] Add borders
+* [] Organized everything
+* [] Fix grammar
+
