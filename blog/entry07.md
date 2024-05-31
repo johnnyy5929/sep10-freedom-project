@@ -1,7 +1,26 @@
 # Entry 7
-##### X/X/XX
+##### 5/32/24
 
-Text
+## Content 
+
+
+#### Takeaways from Expo elevator pitch
+
+
+#### Takeaways from in-class presentation
+
+
+
+
+
+## EDP
+
+
+## Skills 
+
+
+
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
