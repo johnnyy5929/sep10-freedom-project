@@ -47,8 +47,35 @@ Take a look at my [project](https://johnnyy5929.github.io/sep10-freedom-project/
 Wondering why I picked this project well, I have a sister and she is too lazy to do anything so why not have a robot, I made it for cooking because that is the main thing she makes me do. So the purpose of the project is to make a robot and app that can help you cook. So I made an app that is connected to my robot which is my freedom project. 
 
 ### Implications
-So this robot should have a lot of postives affects on the world: Globally, Socially and Economically:
+So this robot should have a lot of postives affects on the world Globally, Socially and Economically:
+
+* Global
+   * This robot can help the enviroment in the fact that it doesn't waste any food, it will try it best to use everything.
+   * So this robot helps the government because if anyone who is wanted buys it, the robot will call the cops. Also if there is any probelms like a house robbery the robot will call the government for you.
+     
+* Social
+   * Individual- if you ever feel tried to cook and want to eat something health the robot will help you will take, it will make the best food and will be health without you even doing anything.
+   * Relationship- If anyone ever feels too lazy to cook and you don't want to fight in your relationship the robot solves that for you. It does everything to keep everything health and better.
+   * Culture- Well, the robot can cook foods of ever culture, if you are scared to loss the recipts of anything the robot will learn it so your culture will never be lost.
+  
+* Economic
+   * So if you can't hire anyone the robot will just cook for you, you will save a lot of money and make a lot of moeny because the robot cooks perfectly each and everytime.
+   * Finance- the robot will tell you how much is it to make something and it can change the repict depending how much you want it to cost, so if you want it to be cheap it will make it cheap, if you have money and make it better, you can spedn more money on ingedents.
+ 
+So all in all the robot have a lot of benefits on humans in many ways. Like globally, socially and economically.
 ## Skills 
+
+So from the last weeks of the freedom projects I have learned a lot.
+
+* First I learned that you should have good time magement skills, you should do everything on time becasue I had some ideas but never did them because I got to lazy and lost time. So you should be on time with your plans.
+
+* I learned that we should have a plan before going into everything, like making the project I had my wireframe which was my plan, the pitch I had my notes that helped me, the presention, I made slides that tell me everything I need to know.
+
+* I also learned that you shouldn't be afraid and ask for help, friends are there for you, you should always ask them for help, I didn'y understand why my code wasn't workinh I ask my friends for help. I asked Katherine when I didn't know why something wasn't work. So always ask friends for help.
+
+* Last thing I learned from this is that you should bring your own life into stuff soemtimes, I didn't know what to do with cooking, so I brought my own life into it. I want people to relate with me and so they would understand my project. So these are my takeaways.
+
+This project has been fun, I hope next year I will take in these skills and use them and win. It would be fun to go up and talk about my project to the whole of se
 
 
 
