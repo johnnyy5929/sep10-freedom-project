@@ -34,14 +34,20 @@ These are my takeaways from the expo elevator pitch.
 
 How did I get ready for the pitch and the presentation, well I had my notes and slides.
 
-So first for the pitch I had to make a note in my google notes for sep, at the end of the notes there is my pitch, that I practice and made better. [Notes]((https://docs.google.com/document/d/16-SQCaNSLfmj9ne8j51SbTt6hhrcm988ixjZsGDwO-Q/edit)
+So first for the pitch I had to make a note in my google notes for sep, at the end of the notes there is my pitch, that I practice and made better. [Notes](https://docs.google.com/document/d/16-SQCaNSLfmj9ne8j51SbTt6hhrcm988ixjZsGDwO-Q/edit)
 
 For the presention I had slides that I made [Slides](https://docs.google.com/presentation/d/1-KB_RZ0Ip8dJCgSvQWRGlJ3eBfhMjr2g08t-7oOP2Dw/edit#slide=id.p)
 
 ## EDP
-
+So throughout this year I went through many steps of the EDP and now I am on the last step which is step 8, Communicate the results, so in this step I showed everyone my finish produce of the freedom project, which was my website.
 ## Overview
+Take a look at my [project](https://johnnyy5929.github.io/sep10-freedom-project/) and the [Code](https://github.com/johnnyy5929/sep10-freedom-project).
 
+### Context to my freedom project
+Wondering why I picked this project well, I have a sister and she is too lazy to do anything so why not have a robot, I made it for cooking because that is the main thing she makes me do. So the purpose of the project is to make a robot and app that can help you cook. So I made an app that is connected to my robot which is my freedom project. 
+
+### Implications
+So this robot should have a lot of postives affects on the world: Globally, Socially and Economically:
 ## Skills 
 
 
