@@ -23,9 +23,16 @@ These are my takeaways from the expo elevator pitch.
 
 ### Takeaways from in-class presentation
 
+- First thing I learned is that you should talk loud, you should be loud becasue you want everyone to hear you.
+
+- Next thing I learned is you should make eye contact with everyone and not just one person, that one person might not like it. So you shoud look at everyone.
+
+- I also learned that you should slow down sometimes, I felt like I was going too fast which I didn't know until my friends told me, so next time I will try going a bit slower but not too fast as well.
+
 
 ## Sources
 
+## EDP
 
 ## Overview
 
