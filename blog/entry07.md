@@ -7,7 +7,18 @@ As you many know, throughout this school year, we learned many codes, many thing
 
 ### Takeaways from Expo elevator pitch
 
-So we had a elevator pitch to judges 
+So we had to do a elevator pitch to judges and they graded us base on the elevator pitch and how well we put our website together. So 
+
+- First this I learned that you should be calm and talk to the judges normally, if you aren't calm you might mess up and say something you didn't want to. 
+
+- Second thing I learned is that you should make eye contact where who you are talking to, the judges like it when they know you are talking to them.
+
+- Third thing is that you should practice your pitch before they come to you, you should be ready so you don't mess up.
+
+- Make sure you tell them everything you want that would help you get a better grade, like show them you tried really hard and that you did something no one else did.
+
+These are my takeaways from the expo elevator pitch.
+
 
 
 ### Takeaways from in-class presentation
